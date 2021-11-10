@@ -1,12 +1,12 @@
 - links:
-  - name: Pricing
-    link: /pricing/
+  - name: Features
+    link: /features/
 #  - name: Blog
 #    link: /blog/
   - name: About
     link: /about/
   - name: Contact
-    link: /contact/
+    link: https://us20.list-manage.com/contact-form?u=a8019da847eaf84b0e66dac09&form_id=cc949d8498157cb429ebae1c64e7a3ef
 - links:
   - name: Buy
     link: /

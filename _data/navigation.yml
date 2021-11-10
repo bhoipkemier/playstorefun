@@ -1,5 +1,5 @@
-- name: Pricing
-  link: /pricing/
+- name: Features
+  link: /features/
   new_window: false
   highlight: false
 #- name: Blog
@@ -11,14 +11,14 @@
   new_window: false
   highlight: false
 - name: Contact
-  link: /contact/
-  new_window: false
+  link: https://us20.list-manage.com/contact-form?u=a8019da847eaf84b0e66dac09&form_id=cc949d8498157cb429ebae1c64e7a3ef
+  new_window: true
   highlight: false
-- name: Login
+- name: Buy
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+- name: Register
   link: /
   new_window: true
   highlight: true

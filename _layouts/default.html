@@ -9,7 +9,7 @@
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.ico">
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.svg">
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
@@ -21,9 +21,14 @@
 		{% endif %}
 	</head>
 	<body>
-		<header>
+		<header>  
 			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/logo.svg" alt="Play Store Fun Logo" width="95" height="33" /></a></div>
+				<div class="company-name">
+					<a href="{{ site.baseurl }}/">
+						<img src="{{ site.baseurl }}/images/logo line.svg" alt="Play Store Fun Logo" width="33" height="33" style="display:inline;" />
+						play store fun
+					</a>
+				</div>
 				{% include navigation.html %}
 			</div>
 		</header>
