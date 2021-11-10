@@ -2,8 +2,8 @@
 # Site
 
 title: Play Store Fun - the realistic checkout system
-url: "https://playstorefun.com"
-baseurl:
+url: "https://bhoipkemier.github.io/playstorefun"
+baseurl: "https://bhoipkemier.github.io/playstorefun"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -18,7 +18,7 @@ author:
 social:
   name: 
   links:
-    - https://playstorefun.com
+    - https://bhoipkemier.github.io/playstorefun
 
 # -----
 # Build

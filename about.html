@@ -22,7 +22,7 @@ people:
 <ul class="staff">
 	{% for person in page.people %}
 		<li>
-			<div class="square-image"><img src="/images/{{person.name}}.png" alt="{{ person.name }}"/></div>
+			<div class="square-image"><img src="{{ site.baseurl }}/images/{{person.name}}.png" alt="{{ person.name }}"/></div>
 			<div class="name">{{ person.name }}</div>
 			<div class="position">{{ person.title }}</div>
 		</li>
