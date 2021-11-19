@@ -2,8 +2,8 @@
 # Site
 
 title: Play Store Fun - the realistic checkout system
-url: "https://bhoipkemier.github.io/playstorefun"
-baseurl: "https://bhoipkemier.github.io/playstorefun"
+url: "https://www.playstorefun.com"
+baseurl: "https://www.playstorefun.com"
 contacturl: "https://us20.list-manage.com/contact-form?u=a8019da847eaf84b0e66dac09&form_id=cc949d8498157cb429ebae1c64e7a3ef"
 buyurl: "https://www-playstorefun-com.myshopify.com/cart/42048990511362:1?channel=buy_button"
 google_analytics_key:
@@ -20,7 +20,7 @@ author:
 social:
   name: 
   links:
-    - https://bhoipkemier.github.io/playstorefun
+    - https://www.playstorefun.com
 
 # -----
 # Build
