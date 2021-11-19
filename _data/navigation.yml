@@ -15,7 +15,7 @@
   new_window: true
   highlight: false
 - name: Buy
-  link: /
+  link: https://www-playstorefun-com.myshopify.com/cart/42048990511362:1?channel=buy_button
   new_window: true
   highlight: false
 - name: Register

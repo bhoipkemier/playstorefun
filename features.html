@@ -27,9 +27,11 @@ faq:
   - question: Does my computer need to run Windows?
     answer: No, any operating system with a modern web browser and a USB port will work.
   - question: Does my computer need a web camera?
-    answer: Yes, although you may use the Play Store Fun system without a web camera, we strongly encourage having one in order to take pictures of the items in your store.
+    answer: No, although you may use the Play Store Fun system without a web camera, we strongly encourage having one in order to take pictures of the items in your store.
+  - question: Where do I get items to stock my play store?
+    answer: This is the fun part!  You can use anything that your imagination can come up with.  Do you want to setup a grocery store?  Recycled food containers are perfect.  Do you want to setup a pet store?  Grab some stuffed animals and let the fun begin.  We include barcodes that can be applied to items that might not already have a barcode on them.
   - question: Questions?
-    answer: Contact us with any further questions using our <a href="{{ site.baseurl }}/contact">contact form</a>.
+    answer: Contact us with any further questions using our <a href="{{ site.contacturl }}">contact form</a>.
 ---
 <div class="plans">
 	{% for plan in page.pricing_table %}
@@ -49,7 +51,7 @@ faq:
 </div>
 
 {% if page.faq %}
-	<h2>Pricing FAQ</h2>
+	<h2>Frequently Asked Questions</h2>
 	<dl class="faq">
 		{% for item in page.faq %}
 			<div>
