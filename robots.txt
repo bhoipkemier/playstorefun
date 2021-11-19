@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://bhoipkemier.github.io/playstorefun/sitemap.xml
+Sitemap: https://www.playstorefun.com/sitemap.xml
