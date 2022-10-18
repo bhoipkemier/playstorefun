@@ -1,3 +1,15 @@
+# Deploy Notes
+1. run dev server 
+~~~bash
+$ bundle exec jekyll serve
+~~~
+2. compile for production
+~~~bash
+$ bundle exec jekyll build
+~~~
+3. copy _site to deploy directory
+4. commit and push to prod branch
+
 # Hydra
 
 Compile using bundle exec jekyll serve --incremental
